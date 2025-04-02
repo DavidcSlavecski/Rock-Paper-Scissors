@@ -2,7 +2,7 @@
 
 import random
 
-# Function to get the player's choice
+# Function to get the player's choice object
 def get_player_choice():
     choice = input("Choose Rock, Paper or Scissors: ").lower()
     while choice not in ["rock", "paper", "scissors"]:
