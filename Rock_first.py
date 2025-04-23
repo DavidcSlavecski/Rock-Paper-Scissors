@@ -1,5 +1,3 @@
-# Rock, Paper, Scissors
-
 import random
 
 # Function to get the player's choice object
