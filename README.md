@@ -1,5 +1,7 @@
 # Rock-Paper-Scissors
-This is a simple implementation of the classic Rock, Paper, Scissors game in Python. The game allows you to play against the computer, where you choose Rock, Paper, or Scissors and the computer randomly chooses one as well. The game then determines the winner based on the traditional rules:
+This is a simple implementation of the classic Rock, Paper, Scissors game in Python. 
+
+The game allows you to play against the computer, where you choose Rock, Paper, or Scissors and the computer randomly chooses one as well. The game then determines the winner based on the traditional rules:
 
 ## How to Play
 - Rock beats Scissors
