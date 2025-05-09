@@ -1,4 +1,5 @@
 import random
+import operator
 
 # Function to get the player's choice object
 def get_player_choice():
