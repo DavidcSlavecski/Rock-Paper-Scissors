@@ -10,7 +10,7 @@ The game allows you to play against the computer, where you choose Rock, Paper, 
 
 ## How to Play
 
-1. Run the ```rock_paper_scissors.py``` script.
+1. Run the ```rock_paper.py``` script.
 2. The game will prompt you to choose Rock, Paper, or Scissors.
 3. The computer will make its choice.
 4. The game will display the result and ask if you want to play again.
