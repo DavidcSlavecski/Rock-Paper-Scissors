@@ -1,6 +1,9 @@
 import random
 import operator
 
+#function 
+def get_player_choice():
+    true
 # Function to get the player's choice object
 def get_player_choice():
     choice = input("Choose Rock, Paper or Scissors: ").lower()
