@@ -1,7 +1,7 @@
 import random
 import operator
 
-#function 
+#function get_player_choice
 def get_player_choice():
     true
 # Function to get the player's choice object
